@@ -7,7 +7,6 @@
 
 [Installation deno](https://deno.land/#installation)
 
-- [Documentation](https://doc.deno.land/https://raw.githubusercontent.com/stephen-shopopop/fresh/main/main.ts)
 - [cheat code](https://oscarotero.com/deno/?utm_source=denonews&utm_medium=email)
 
 # fresh project
