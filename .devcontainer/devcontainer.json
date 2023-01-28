@@ -31,7 +31,8 @@
         "aaron-bond.better-comments",
         "nicoespeon.abracadabra",
         "mutantdino.resourcemonitor",
-        "sastan.twind-intellisense"
+        "sastan.twind-intellisense",
+        "rangav.vscode-thunder-client"
       ]
     }
   },
