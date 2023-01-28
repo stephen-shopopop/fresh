@@ -23,3 +23,4 @@ deno run -A main.ts
 - [deno fresh](https://fresh.deno.dev)
 - [twind](https://twind.dev)
 - [tailwind](https://tailwindcss.com)
+- [Deploiement](https://deno.com/deploy)
