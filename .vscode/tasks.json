@@ -5,7 +5,7 @@
       "type": "deno",
       "command": "run",
       "args": [
-        "mod.ts"
+        "main.ts"
       ],
       "problemMatcher": [
         "$deno"
